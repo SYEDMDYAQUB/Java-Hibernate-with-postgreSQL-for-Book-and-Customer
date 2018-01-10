@@ -1,0 +1,2 @@
+# Java-Hibernate-with-postgreSQL-for-Book-and-Customer
+The system we are developing is the library management system. As of now there is only 3 tables in the database. The tables are "BOOK" to keep the records of the details of the books present in the library. "CUSTOMER" to hold the record of the people who are the memeber of the library. "BOOK_ISSUE" is to hold the record for the details of the books that have been issued by the customer.
